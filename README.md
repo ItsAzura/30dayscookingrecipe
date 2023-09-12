@@ -1,1 +1,1 @@
-# 30dayscookingrecipe
+# 30DaysofCookingRecipe
