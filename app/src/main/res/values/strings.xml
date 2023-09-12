@@ -1,0 +1,254 @@
+<resources>
+    <string name="app_name">30 Days of Cooking Recipe Application</string>
+
+    <string name="day1">Day 1</string>
+    <string name="day1food">Pho Bo</string>
+    <string name="day1ingredient">
+- 1 kg beef bones
+- 500 grams beef shank
+- 800 grams beef brisket
+- Coriander, basil: 80 grams
+- Gala: 80 grams
+- Ginger: 2 pieces
+- Star anise: 2
+- Cinnamon sticks: 1 small branch
+- Cloves: 1 gram
+- Fennel seeds: 1 gram
+- Cardamom seeds: 1 gram
+- Nutmeg: 5 seeds
+- Cloves: 5 pieces
+- Chinese black cardamom: 1 small piece
+- Quince wine: 10 grams
+- Szechuan peppercorns: 20 grams
+- Onions, rock sugar, broth mix, seasoning powder, granulated sugar, coarse salt, vinegar, rice noodles.
+    </string>
+    <string name="day1recipe">
+Step 1: Prepare Beef Bones, Beef Shank, and Beef Brisket
+- Soak the beef bones in a mixture of salt and vinegar for about 2 hours to remove any impurities and reduce the gamey smell. Then, rinse the bones thoroughly and boil them in water along with ginger and 1 tablespoon of salt for about 10 minutes. Remove them from the water and rinse under cold water. This process will eliminate the strong beefy odor, resulting in a more fragrant and less gamy broth.
+- Soak the beef shank and beef brisket in a mixture of salt and vinegar for about 15 – 20 minutes. Then, boil them with star anise, ginger, and shallots. Season with 1 tablespoon of sugar, 1 tablespoon of seasoning powder, and ½ tablespoon of salt. It is important to season the meat from the beginning to allow the flavors to penetrate. After boiling for over 2 hours until the meat is tender, remove them and soak them in cold water. Slice the beef brisket and beef shank to your desired thickness.
+Step 2: Simmer the Beef Bones
+- Simmer the beef bones for over 10 hours with 5 liters of water to extract the essence from the bones. The longer you simmer, the more flavorful and aromatic the broth will be. Then, add cold water to achieve the desired level of concentration. However, the amount of water you add will determine whether the broth is more concentrated or less so.
+Step 3: Prepare Other Ingredients and Cook the Broth
+- Peel half of the onions, wash them, and thinly slice them. Soak them in cold water to make them crisp and less pungent. Take the remaining half of the onion, along with ginger and cinnamon, and roast them on a stove until fragrant (try not to burn them). Then, remove the skin and add them to a white cloth bag. Place the bag in the pot with the beef bones and simmer for 4 hours to extract the sweetness from the ingredients.
+- Add star anise, cinnamon sticks, coriander seeds, cloves, and cardamom pods to a pan and roast them to bring out the aroma. Be careful not to toast them until they turn brown, as it will darken the broth. Then, soak them in boiling water for about 30 minutes to an hour to remove excess color and smell. This will give the broth a subtle and pleasant fragrance, without being overly strong and overpowering. Afterwards, remove them, place them in a white cloth bag, and add them to the pot with the beef bones.
+Step 4: Prepare Pho Noodles and Accompanying Vegetables
+- Blanch the pho noodles in boiling water, then place them in a bowl. Arrange the beef slices on top, sprinkle with green onions, cilantro, chopped onions, and ice-soaked shallots. Squeeze a bit of lime juice and add a few slices of chili for a traditional Vietnamese pho with a rich and authentic flavor.
+Enjoy your delicious homemade pho!</string>
+
+    <string name="day2">Day 2</string>
+    <string name="day2food">Banh Mi Trung</string>
+    <string name="day2ingredient">
+- 2 eggs
+- 50ml cooking oil
+- 30g butter
+- 1 loaf of bread
+- 1 cucumber
+- Fresh herbs for garnish (optional)
+- Common seasonings: chili sauce, tomato sauce, ground pepper, seasoning powder, salt.
+    </string>
+    <string name="day2recipe">Step 1: Prepare the Ingredients
+- Take a bought bread roll and use a knife to make a vertical cut on the side of the roll.
+- Place it in the oven for about 1 – 2 minutes at 180 degrees Celsius. Adjust the time based on how crispy you want it to be.
+- Remove the core of the tomato, wash it thoroughly, and slice it thinly.
+- Wash the cucumber, peel it, and use a knife to cut it into thin slices, suitable for eating.
+- For the coriander and spring onion, discard the wilted leaves, wash them thoroughly, and finely chop them.
+Step 2: Fry the Eggs
+- Heat a pan on the stove, add 2 tablespoons of cooking oil, and let it heat up.
+- Crack 2 eggs into the pan and cook over medium heat for about 2 – 3 minutes. Flip one side and cook until it is done. If you prefer runny yolks, simply fry the eggs for about 2 minutes on low heat, ensuring the egg whites are cooked.
+- Apply a thin layer of oil around the edges of the egg whites to make the edges crispy. Remove the eggs from the pan and proceed to stuff them into the bread rolls.
+Step 3: Stuff the Bread Rolls
+- Once the bread rolls are freshly baked and still warm, split them in half and spread a thin layer of butter on the inside to add flavor.
+- Carefully place the fried egg inside the bread, then add layers of cucumber and herbs as desired.
+- Sprinkle a bit of salt and ground pepper. You can also add chili sauce, ketchup, or mayonnaise to enhance the flavor. Enjoy while its still hot!
+    </string>
+
+
+    <string name="day3">Day 3</string>
+    <string name="day3food">Goi Cuon</string>
+    <string name="day3ingredient">
+- Pork belly: 700g
+- Shrimp: 500g
+- Rice paper: 1 stack
+- Fresh vermicelli: 500g
+- Lettuce, various herbs, bean sprouts, chives
+- Ground roasted peanuts
+- Pickled vegetables, garlic
+- Ground roasted sesame seeds
+- Condiments: sugar, seasoning powder, cooking oil
+    </string>
+    <string name="day3recipe">
+Step 1:Preparing Raw Vegetables
+- Lettuce, bean sprouts, chives, and various aromatic herbs should have their roots removed, soaked in salted water, and then rinsed thoroughly. Let them drain.
+Step 2:Preparing Shrimp and Meat:
+- Clean the shrimp, marinate with 1/2 teaspoon of salt, 1 teaspoon of sugar, and 1 tablespoon of alcohol for flavorful and non-fishy shrimp. Let the shrimp absorb the seasonings and then put them in a pot, cover, and cook until the shrimp turn red, flipping them evenly. Once the shrimp are cooked, remove them to cool, peel off the shells, remove the back vein, and split them in half lengthwise along the back.
+- Clean the pork belly, put it in a pot with a few smashed shallots. Once the pork is cooked, remove it and place it in a basin of cold water to make the meat whiter, crisper, and tastier. Then, cut the meat into thin slices.
+Step 3:Rolling the Spring Rolls:
+- Take a rice paper wrapper and briefly dip it in water to soften, then spread each sheet on a plate. Layer lettuce, bean sprouts, aromatic herbs, vermicelli, and boiled meat and shrimp. Place the shrimp with the red side facing downwards for an appealing presentation. Add a sprig of chives and roll it up with a medium-sized dimension suitable for eating. Repeat until all ingredients are used.
+Step 4:How to Make Dipping Sauce for Spring Rolls:
+- Add a bit of oil to a pan, add minced garlic and sautes until fragrant, then add ground bean sauce. Season with a bit of sugar to reduce the saltiness. Cook until the bean sauce boils vigorously, then remove from heat and let it cool. Pour the bean sauce into a bowl, add peanuts, pickled vegetables, and fresh chili according to your preference.
+    </string>
+
+    <string name="day4">Day 4</string>
+    <string name="day4food">Bun Cha</string>
+    <string name="day4ingredient">
+- 0.5 kg pork belly
+- 0.5 kg pork shoulder
+- 2 dried shallots
+- 5-6 lemongrass stalks
+- 1 lime
+- 3 ripe chilies
+- 1/2 green papaya
+- 1 garlic bulb
+- 1 carrot
+- 1 sweet potato
+- 2 heads of lettuce
+- 1 bunch of cilantro
+- 1 kg fresh vermicelli noodles
+- Utensils: bowl, spoon, grill
+- Seasonings: soup base powder, seasoning powder, MSG (optional), salt, cooking oil
+    </string>
+    <string name="day4recipe">
+Step 1: Preparing the Ingredients
+- Pork belly: Rub with a pinch of salt, wash thoroughly to remove any unpleasant odor, then slice thinly, medium-sized for a single bite. Grind or finely chop the pork shoulder.
+- Raw vegetables: Pluck off wilted leaves and discard roots, soak in diluted saltwater, then rinse thoroughly and drain.
+- Lemongrass: Peel and discard the outer layers, wash thoroughly, roughly chop, and blend with a little water. Squeeze to extract the essence for marinating the meat.
+- Dried shallots and garlic: Peel the skin off, then blend with a bit of chili (if you prefer it spicy), and transfer to a bowl.
+Note: Create a coloring sauce for a better appearance.
+Step 2: Marinating the Grilled Meat and Meatballs for Bun Cha Hanoi
+- Marinating the pork belly: For every 1 kg of pork, add 3 teaspoons of starch, 3 teaspoons of sugar, 3 teaspoons of MSG, 1 tablespoon of the prepared lemongrass water, 1 teaspoon of fish sauce, half a minced shallot, and half of the lemongrass water.
+- Making the meatballs: Grind the pork shoulder until smooth, then marinate with the same seasonings as the pork belly.
+After marinating, tightly wrap both types of meat in food wrap, place in the refrigerator for 3 hours or overnight for better flavor.
+Note: To make the grilled meat and meatballs softer and more flavorful, for every 1 kg of meat, add 1 teaspoon of lime juice and mix well before grilling.
+Step 3: Grilling the Meat and Meatballs
+- Grill the marinated meat. While you can use an oven, grilling over charcoal will provide a more enticing aroma. Before grilling, brush a thin layer of cooking oil on the grilling rack to prevent sticking.
+- Grill until the meat and meatballs turn golden brown and release a fragrant smell.
+Step 4: Preparing the Side Pickles
+- Julienne the jicama, carrots, and papaya, then soak them in salt water until they release water. Drain and rinse thoroughly.
+- Mix the julienned vegetables with a bit of salt, vinegar, chili, sugar, and minced garlic. Season to taste.
+Step 5: Making the Dipping Sauce for Bun Cha Hanoi
+- In a saucepan, combine 10 tablespoons of water, 2 tablespoons of sugar, and 2 tablespoons of fish sauce. Bring to a boil.
+- Once boiling, turn off the heat and add 3 tablespoons of lime juice, 1 teaspoon of minced garlic, and minced chili. Stir well.
+Step 6: Assembly and Enjoyment
+- When serving, prepare the vermicelli and assorted raw vegetables. Warm up the dipping sauce and pour it over the grilled meat and meatballs. Enjoy with the pickles.
+    </string>
+
+    <string name="day5">Day 5</string>
+    <string name="day5food">Bun Dau Man Tom</string>
+    <string name="day5ingredient">
+- 500g vermicelli
+- 8 sheets of rice paper
+- 300g tofu
+- 300g pork leg meat (bone-in)
+- 300g pork belly
+- 300g young sticky rice cake
+- 50g shrimp paste
+- 3 chili peppers
+- 1 bulb of garlic
+- 1 fresh lime
+- 1 tablespoon of white wine
+- Seasonings: sugar, seasoning powder, vinegar, cooking oil
+- Accompanying greens: perilla leaves, Vietnamese balm, cilantro, lettuce, cucumber
+    </string>
+    <string name="day5recipe">
+Step 1: Boiling the Meat
+- Wash the pork belly and pork hock thoroughly. Blanch them briefly in boiling water to remove impurities and residue. Rinse the meat with clean water and let it drain.
+- If you want the meat to have a richer flavor, you can marinate it with some spices for about 15 minutes. For the pork hock, you can tie it with a string or use a net to shape it into a round block. Boil the meat with a little salt for about 25 - 30 minutes until it is cooked. Then, take it out and immediately immerse it in a bowl of ice-cold water to make it firm and crispy.
+Step 2: Preparing the Accompanying Vegetables
+- While waiting for the meat to cook, take advantage of the time to prepare the accompanying vegetables.
+- Pluck off any wilted or discolored leaves, remove roots, and wash the vegetables thoroughly. Soak them in diluted saltwater for 30 minutes, then rinse them again and let them drain.
+- Wash the cucumber thoroughly, soak it in diluted saltwater, peel off the skin, and cut it into thin slices.
+Step 3: Frying the Cốm Cake
+- Cốm cake is an essential ingredient in this dish. It is also a specialty of Hanoi.
+- To fry the cốm cake, start by heating a pan, add cooking oil or lard, and heat it up. Then, add the cốm cake pieces one by one. Fry over medium heat until they turn crispy and golden on all sides, then remove them.
+Step 4: Frying the Tofu
+- Rinse the tofu in cold water, drain it, and cut it into medium-sized square pieces. Put the tofu in a pan with hot oil and fry it until it is golden on all sides.
+- Once the tofu is fried, take each piece out and place it on a plate lined with paper towels. This prevents it from becoming too greasy when eaten. Adjust the frying time to ensure the tofu is served hot and crispy.
+Step 5: Making the Shrimp Paste Dip
+- To make the shrimp paste dip taste as delicious as in restaurants, you need to know how to prepare it properly since its the "soul" of this dish.
+- Ingredients for the shrimp paste dip: 3 tablespoons of good-quality shrimp paste, 1 tablespoon of sugar, half a lime, 1 fresh chili, 2 tablespoons of cooking oil, 1 dried shallot, and half a tablespoon of white wine.
+- Mixing process:
+   - Put the shrimp paste in a small bowl, then add lime juice, white wine, and sugar as previously prepared. Stir well with chopsticks.
+   - Heat a pan, add cooking oil, and heat it up. Add the dried shallot and sautes until golden. Then, add the prepared shrimp paste mixture, heat it up, and turn off the heat. Transfer to a bowl. Add sliced chili when serving.
+   - Depending on personal taste, you can add lime (or kumquat) or chili according to your preference.
+Step 6: Assembly and Enjoyment
+- Cut the fried cốm cake into long pieces.
+- Cut the dried rice paper into bite-sized pieces.
+- Slice the pork hock, pork belly into thin slices.
+- Arrange all the ingredients on a plate, with a little of each. Add fresh herbs and a bowl of shrimp paste dip. Then, enjoy your meal!
+    </string>
+
+    <string name="day6">Day 6</string>
+    <string name="day6food">Nem Ran</string>
+
+    <string name="day7">Day 7</string>
+    <string name="day7food">Banh Cuon</string>
+
+    <string name="day8">Day 8</string>
+    <string name="day8food">Pho Cuon</string>
+
+    <string name="day9">Day 9</string>
+    <string name="day9food">Banh Xeo</string>
+
+    <string name="day10">Day 10</string>
+    <string name="day10food">Bun Bo Hue</string>
+
+    <string name="day11">Day 11</string>
+    <string name="day11food">Ca Phe Trung</string>
+
+    <string name="day12">Day 12</string>
+    <string name="day12food">Xoi</string>
+
+    <string name="day13">Day 13</string>
+    <string name="day13food">Banh Goi</string>
+
+    <string name="day14">Day 14</string>
+    <string name="day14food">Com Tam Suon Nuong</string>
+
+    <string name="day15">Day 15</string>
+    <string name="day15food">Chao</string>
+
+    <string name="day16">Day 16</string>
+    <string name="day16food">Banh Bao</string>
+
+    <string name="day17">Day 17</string>
+    <string name="day17food">Che</string>
+
+    <string name="day18">Day 18</string>
+    <string name="day18food">Bo La Lot</string>
+
+    <string name="day19">Day 19</string>
+    <string name="day19food">Hu Tieu</string>
+
+    <string name="day20">Day 20</string>
+    <string name="day20food">Nem Nuong</string>
+
+    <string name="day21">Day 21</string>
+    <string name="day21food">Ca Phu Trung</string>
+
+    <string name="day22">Day 22</string>
+    <string name="day22food">Sup Cua</string>
+
+    <string name="day23">Day 23</string>
+    <string name="day23food">Com Chay</string>
+
+    <string name="day24">Day 24</string>
+    <string name="day24food">Mi Quang</string>
+
+    <string name="day25">Day 25</string>
+    <string name="day25food">Com Hen</string>
+
+    <string name="day26">Day 26</string>
+    <string name="day26food">Bun Rieu</string>
+
+    <string name="day27">Day 27</string>
+    <string name="day27food">Banh Canh</string>
+
+    <string name="day28">Day 28</string>
+    <string name="day28food">Bun Thit Nuong</string>
+
+    <string name="day29">Day 29</string>
+    <string name="day29food">Cao Lau</string>
+
+    <string name="day30">Day 30</string>
+    <string name="day30food">Bun Bo Hue</string>
+</resources>
